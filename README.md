@@ -1,15 +1,28 @@
-# Hi, I'm Prakrati 👋
+# Hi, I'm Sera 👋
 
-I'm a Final year BTech Data Science student, interested in machine learning and web development.
+Final-year B.Tech Computer Science & Engineering student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore. I'm aiming for a career in data science and ML, and I like building things that solve real problems.
 
-## Projects
-- **[Disease Prediction](https://github.com/prakrati1611-byte/Diseaseprediction)**: ML model for predicting diseases based on medical symptoms and patient data
-- **[Fake Profile Detection](https://github.com/prakrati1611-byte/Fake-Profile-Detection-system)**: Deep learning system to detect and classify fake social media profiles
-- **[repoguide](https://github.com/prakrati1611-byte/repoguide)**: A guide tool for exploring and understanding GitHub repositories
+## 🔭 What I've been building
 
-## Skills
-Python · JavaScript · TypeScript · HTML/CSS · scikit-learn · pandas · Git
+- **RepoGuide**: a Legacy Codebase Onboarding Assistant, built for the IBM Bob 2.0 Hackathon (Sept 2026), my first hackathon. I led coordination, IBM Bob integration, documentation, and data structuring, and worked with a teammate who built the React/Vite frontend.
+- **Fake Social Media Profile Detection and Reporting System**: my major project, aimed at crime branches and investigative agencies. It combines a RandomForest/GradientBoosting classifier, an LLM-based content analysis module, and an investigator dashboard.
+- **Fire Department Management System**: a Flask/MySQL app I built mostly solo, covering the frontend, ML, and backend.
 
-## Get in Touch
-- 💼 [LinkedIn](https://www.linkedin.com/in/prakrati-dubey-15ba61286?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- 📧 Email: Prakrati1611@gmail.com
+## 🛠️ Tech I work with
+
+**Languages & backend:** Python, Flask, FastAPI
+**ML & data:** Machine Learning, scikit-learn, RandomForest, GradientBoosting, NumPy, Pandas
+**Databases:** MySQL
+
+
+## 🌱 Currently
+
+- Going deeper into machine learning
+- Practicing DSA alongside my projects
+- Learning to plan projects properly: architecture diagrams early, documentation as I go
+
+## 📫 Let's connect
+
+Open to data science and ML opportunities, and always happy to collaborate on projects.
+linkdin - https://www.linkedin.com/in/prakrati-dubey-15ba61286?utm_source=share_via&utm_content=profile&utm_medium=member_android
+Email-prakrati1611@gmail.com
