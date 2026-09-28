@@ -1,4 +1,4 @@
-# Hi, I'm Sera 👋
+# Hi, I'm Prakrati 👋
 
 Final-year B.Tech Computer Science & Engineering student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore. I'm aiming for a career in data science and ML, and I like building things that solve real problems.
 
