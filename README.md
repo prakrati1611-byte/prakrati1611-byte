@@ -24,6 +24,6 @@ Final-year B.Tech Computer Science & Engineering student at Shri Vaishnav Vidyap
 ## 📫 Let's connect
 
 Open to data science and ML opportunities, and always happy to collaborate on projects.
-linkdin - https://www.linkedin.com/in/prakrati-dubey-15ba61286?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-Email-prakrati1611@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/prakrati-dubey-15ba61286
+- 📧 Email: prakrati1611@gmail.com
